@@ -1,0 +1,385 @@
+('D:\\Project\\Checking Following Instagram\\build\\gui\\PYZ-00.pyz',
+ [('_compat_pickle',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('statistics',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.scrolledtext',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\scrolledtext.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\windows '
+   '10\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
+   'PYMODULE')])
